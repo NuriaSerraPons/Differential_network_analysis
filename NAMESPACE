@@ -1,0 +1,13 @@
+export(divide_y_elimina)
+export(matriz_correlacion)
+export(test_permutaciones)
+export(test)
+export(calculo)
+export(diabetes)
+export(divide_y_elimina)
+export(matriz_correlacion)
+export(test_permutaciones)
+export(test)
+export(calculo)
+
+

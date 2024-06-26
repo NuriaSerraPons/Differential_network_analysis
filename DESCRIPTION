@@ -1,0 +1,11 @@
+Encoding: UTF-8
+Package: Differential_network_analysis
+Type: Package
+Title: Differential Network Analysis
+Version: 0.1.0
+Author: Nuria Serra Pons
+Maintainer: Nuria Serra Pons <nuria.serra.pons@gmail.com>
+Description: Utilizado para analizar una base de datos mediante grafos.
+License: MIT
+Imports: igraph, MASS, ppcor, qgraph, dplyr, tidyverse
+RoxygenNote: 7.3.1
